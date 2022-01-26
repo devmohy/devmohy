@@ -11,7 +11,7 @@ Passionate Backend Developer with 4+ years of experience developing web applicat
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmohy)](https://github.com/devmohy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devmohy&layout=compact)](https://github.com/devmohy/github-readme-stats)
 
 
 ![Mohy's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmohy&count_private=true&show_icons=true)
