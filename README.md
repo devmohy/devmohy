@@ -14,7 +14,7 @@ Passionate Backend Developer with 4+ years of experience developing web applicat
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devmohy&show_icons=true&locale=en" alt="devmohy" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmohycount_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devmohy&count_private=true&show_icons=true)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmohy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
