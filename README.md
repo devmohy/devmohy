@@ -12,9 +12,8 @@ Passionate Backend Developer with 4+ years of experience developing web applicat
 ## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmohy&show_icons=true&locale=en&layout=compact" alt="devmohy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmohy&show_icons=true&locale=en" alt="devmohy" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=devmohy&show_icons=true&locale=en" alt="devmohy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=devmohy&date_format=M%20j%5B%2C%20Y%5D" alt="devmohy" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmohy&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
