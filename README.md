@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a Software Developer from Nigeria.
-Passionate Backend Developer with 4+ years of experience developing web applications and APIs using PHP (Laravel/Codeigniter), Mobile App (Flutter/React Native), and WordPress. Looking to join your development team where my skills will be utilized in the design of scalable, data-driven, modular products that can be adapted to meet changing business requirements.
+Passionate Backend Developer with 4+ years of experience developing web applications and APIs using PHP (Laravel/Codeigniter), WordPress and Mobile App (Flutter/React Native). Looking to join your development team where my skills will be utilized in the design of scalable, data-driven, modular products that can be adapted to meet changing business requirements.
 
 ![](https://komarev.com/ghpvc/?devmohy=blue&style=plastic)
 
